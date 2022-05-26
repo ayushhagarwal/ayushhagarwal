@@ -2,7 +2,7 @@
 
 ## Hello 👋🏻
 ## ✍️ Blogs and Content
-C++ Developer at Amdadeus Software Labs, Bangalore, India. In addition to coding as a full-time job. I am active on Twitter and like to write blogs, read my blogs at : [DEV.to](https://dev.to/ayushdev_24) and [Hashnode](https://blogs.ayushdev.com).
+Frontend Developer at Amdadeus Software Labs, Bangalore, India. In addition to coding as a full-time job, I like to write blogs at : [DEV.to](https://dev.to/ayushdev_24) and [Hashnode](https://blogs.ayushdev.com).
 
 <!-- Actual text -->
 
