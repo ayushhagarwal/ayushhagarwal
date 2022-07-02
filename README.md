@@ -2,7 +2,8 @@
 
 ## Hello 👋🏻
 ## ✍️ Blogs and Content
-Frontend Developer at Amdadeus Software Labs, Bangalore, India. In addition to coding as a full-time job, I like to write blogs at : [DEV.to](https://dev.to/ayushdev_24) and [Hashnode](https://blogs.ayushdev.com).
+Frontend Developer at Amdadeus Software Labs, Bangalore, India. I work in the feature devlopment and stability of the core booking platform for Hotels which serves millions of requests everyday. 
+In addition to coding as a full-time job, I like to write blogs at : [DEV.to](https://dev.to/ayushdev_24) and [Hashnode](https://blogs.ayushdev.com).
 
 <!-- Actual text -->
 
