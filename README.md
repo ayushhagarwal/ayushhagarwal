@@ -2,9 +2,9 @@
 
 ## Hello 👋🏻
 ## ✍️ Blogs and Content
-Frontend Developer at Amdadeus Software Labs, Bangalore, India. I work in the feature devlopment and stability of the core booking platform for Hotels which serves millions of requests everyday. 
+Frontend Developer (Angular) at Amadeus Software Labs, Bangalore, India. I work in the feature development of the core booking platform for Hotel Bookings, which daily serves millions of requests. 
 <br>
-In addition to coding as a full-time job, I like to write blogs at : [DEV.to](https://dev.to/ayushdev_24) and [Hashnode](https://blogs.ayushdev.com).
+In addition to coding as a full-time job, I like to write blogs at [DEV.to](https://dev.to/ayushdev_24) and [Hashnode](https://blogs.ayushdev.com).
 
 <!-- Actual text -->
 
@@ -19,7 +19,7 @@ You can find me on Twitter:[![Twitter][1.2]][1].
 [1]: https://twitter.com/ayushdev_24
 
 ## Tech Stack
-Below is the gist of technologies I have experience working in and use them on a daily basis.
+Below is the gist of technologies I have experience working in and use them daily.
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular logo" width="50px" height="50px">  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="scss logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain.svg" alt="linux logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins logo" width="50px" height="50px">
 
