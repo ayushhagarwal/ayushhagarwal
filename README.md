@@ -4,19 +4,7 @@
 ## ✍️ Blogs and Content
 Frontend Developer (Angular) at Amadeus Software Labs, Bangalore, India. I work in the feature development of the core booking platform for Hotel Bookings, which daily serves millions of requests. 
 <br>
-In addition to coding as a full-time job, I like to write blogs at [DEV.to](https://dev.to/ayushdev_24) and [Hashnode](https://blogs.ayushdev.com).
-
-<!-- Actual text -->
-
-You can find me on Twitter:[![Twitter][1.2]][1].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/ayushdev_24
+In addition to coding as a full-time job, I write blogs at [Medium](https://medium.com/@ayushgrwl365).
 
 ## Tech Stack
 Below is the gist of technologies I have experience working in and use them daily.
