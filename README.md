@@ -1,15 +1,14 @@
-[![Header](/header.png "Header")](https://ayushdev.com/)
-
 ## Hello 👋🏻
 ## ✍️ Blogs and Content
-Frontend Developer (Angular) at Amadeus Software Labs, Bangalore, India. I work in the feature development of the core booking platform for Hotel Bookings, which daily serves millions of requests. 
+Full-Stack Developer at Amadeus Software Labs, Bangalore, India.
+I work on feature development for the core hotel booking platform, handling systems that serve millions of requests daily across frontend and backend layers.
 <br>
 In addition to coding as a full-time job, I write blogs at [Medium](https://medium.com/@ayushgrwl365).
 
 ## Tech Stack
 Below is the gist of technologies I have experience working in and use them daily.
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular logo" width="50px" height="50px">  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="scss logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain.svg" alt="linux logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins logo" width="50px" height="50px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" width="50" height="50"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>
 
 ## 📈 GitHub Stats
 
