@@ -1,5 +1,5 @@
 ## Hello 👋🏻
-## ✍️ Blogs and Content
+## About Me
 Full-Stack Developer at Amadeus Software Labs, Bangalore, India.
 I work on feature development for the core hotel booking platform, handling systems that serve millions of requests daily across frontend and backend layers.
 <br>
