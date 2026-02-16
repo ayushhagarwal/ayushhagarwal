@@ -1,11 +1,25 @@
-## Hello 👋🏻
-## About Me
-Full-Stack Developer at Amadeus Software Labs, Bangalore, India.
-I work on feature development for the core hotel booking platform, handling systems that serve millions of requests daily across frontend and backend layers.
-<br>
-In addition to coding as a full-time job, I write blogs at [Medium](https://medium.com/@ayushgrwl365).
+<a name="top"></a>
+## Hi, I am Ayush 👋🏻
 
-## Tech Stack
-Below is the gist of technologies I have experience working in and use them daily.
+**Full-Stack Engineer @ Amadeus Labs**
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" width="50" height="50"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>
+🏗️ Engineering the core infrastructure that powers global hotel shopping and booking.
+
+💻 Juggling enterprise SECO platforms and late-night vibe coding.
+
+✍️ Writing about software engineering and tech on [Medium](https://medium.com/@your-profile). 
+
+<br/>
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![GitHub Copilot](https://img.shields.io/badge/Copilot-black.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude-755831.svg?style=for-the-badge&logo=claude&logoColor=white)
+
+<br/>
+
+---
+
+<!-- <p align="right">(<a href="#top">back to top</a>)</p> -->
