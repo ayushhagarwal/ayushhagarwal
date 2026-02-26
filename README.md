@@ -7,7 +7,7 @@ Engineering distributed systems at global scale by day — shipping side project
 
 - 🏗️ Building hotel shopping & booking infrastructure at Amadeus that handles millions of events/day.
 - 🤖 I write about engineering and tech on [Medium](https://medium.com/@ayushgrwl365).
-- 🚀 I vibe code apps for fun.
+- 🚀 I vibe code apps for fun—currently exploring **Swift** for native experiences.
 
 <br/>
 
@@ -15,7 +15,7 @@ Engineering distributed systems at global scale by day — shipping side project
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude-755831.svg?style=for-the-badge&logo=claude&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-black.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
