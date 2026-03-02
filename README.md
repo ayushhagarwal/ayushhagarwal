@@ -1,7 +1,7 @@
 <a name="top"></a>
 ## Hi, I'm Ayush 👋🏻
 
-**Full-Stack Developer @ Amadeus Labs** · Bangalore
+**Full-Stack Developer** · India
 
 Engineering distributed systems at global scale by day — shipping side projects and integrating AI workflows by night.
 
