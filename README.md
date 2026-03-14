@@ -23,18 +23,6 @@ Engineering distributed systems at global scale by day — shipping side project
 
 ---
 
-## 🛠️ Passion Projects
-
-| Project | What it does | Status |
-|---|---|---|
-| [Brewlytics](https://brewlytics.ayushdev.com/) | Privacy-first caffeine tracking for iOS with real-time metabolism visualization — SwiftUI, SwiftData, StoreKit 2 | ✅ Shipped |
-| [OfficeComply](https://office-comply.ayushdev.com/) | Hybrid employee attendance tracker to avoid compliance risks and plan ahead — SwiftUI, SwiftData, StoreKit 2 | ✅ Shipped |
-| [SkinRitual](https://skin-ritual.ayushdev.com/) | Smart skincare routine builder with conflict detection for AM/PM stacks — SwiftUI, StoreKit 2, Keychain | ✅ Shipped |
-| [SelfPact](https://selfpact.ayushdev.com/) | Accountability through daily commitment tracking and check-ins — SwiftUI, SwiftData, StoreKit 2 | ✅ Shipped |
-| [PDF Contract Analyzer](https://pdf-parser.ayushdev.com/) | Upload contracts and see risks & exclusions instantly — React Native, Expo, Supabase | 📦 Archived |
-
----
-
 ## 📈 Activity & Stats
 
 <table>
