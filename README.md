@@ -1,15 +1,13 @@
 <a name="top"></a>
 ## Hi, I'm Ayush 👋🏻
 
-**Full-Stack Developer** · India
+AI-Accelerated Full-Stack Engineer · India
 
-Engineering distributed systems at global scale by day — shipping side projects and integrating AI workflows by night.
+Building distributed travel systems at global scale by day — leveraging AI-native workflows and codebase-aware agents to ship faster, automate engineering tasks, and accelerate delivery.
 
-- 🏗️ Building hotel shopping & booking infrastructure at Amadeus that handles millions of events/day.
-- 🤖 I write about engineering and tech on [Medium](https://medium.com/@ayushgrwl365).
-- 🚀 I vibe code for fun—currently exploring **Swift** for ios app development.
-
-<br/>
+- 🏗️ Building hotel shopping & booking infrastructure at Amadeus serving millions of travelers worldwide.
+- 🤖 Exploring agent-driven development, AI-assisted migrations, and high-velocity engineering workflows.
+- ✍️ Writing about software engineering, AI-native development, and modern delivery practices on Mediu
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
