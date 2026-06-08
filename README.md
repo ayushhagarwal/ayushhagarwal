@@ -20,6 +20,16 @@ Building distributed travel systems at global scale by day — leveraging AI-nat
 <br/>
 
 ---
+## 🌱 Open Source
+
+### [Markdown Lens](https://markdownlens.ayushdev.com/)
+
+A privacy-first online Markdown editor and viewer for AI notes, READMEs, docs, Mermaid diagrams, math, and GitHub-style previews.
+
+[Live App](https://markdownlens.ayushdev.com/) · [Source Code](https://github.com/ayushhagarwal/markdown-lens) · [Contributions Welcome](https://github.com/ayushhagarwal/markdown-lens/issues)
+
+
+---
 
 ## 📈 Activity & Stats
 
