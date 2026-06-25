@@ -3,11 +3,11 @@
 
 AI-Accelerated Full-Stack Engineer · India
 
-Building distributed travel systems at global scale by day — leveraging AI-native workflows and codebase-aware agents to ship faster, automate engineering tasks, and accelerate delivery.
+Building distributed travel systems at global scale by day, leveraging AI native workflows and codebase-aware agents to ship faster, automate engineering tasks, and accelerate delivery.
 
 - 🏗️ Building hotel shopping & booking infrastructure at Amadeus serving millions of travelers worldwide.
-- 🤖 Exploring agent-driven development, AI-assisted migrations, and high-velocity engineering workflows.
-- ✍️ Writing about software engineering, AI-native development, and modern delivery practices on Mediu
+- 🤖 Exploring agent-driven development, AI assisted migrations, and high-velocity engineering workflows.
+- ✍️ Writing about software engineering, AI native development, and modern delivery practices on Mediu
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
@@ -20,11 +20,11 @@ Building distributed travel systems at global scale by day — leveraging AI-nat
 <br/>
 
 ---
-## 🌱 Open Source
+## Open Source
 
 ### [Markdown Lens](https://markdownlens.ayushdev.com/)
 
-A privacy-first online Markdown editor and viewer for AI notes, READMEs, docs, Mermaid diagrams, math, and GitHub-style previews.
+A privacy first online Markdown editor and viewer for AI notes, READMEs, docs, Mermaid diagrams, math, and GitHub-style previews.
 
 [Live App](https://markdownlens.ayushdev.com/) · [Source Code](https://github.com/ayushhagarwal/markdown-lens) · [Contributions Welcome](https://github.com/ayushhagarwal/markdown-lens/issues)
 
