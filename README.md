@@ -1,7 +1,7 @@
 <a name="top"></a>
 ## Hi, I'm Ayush 👋🏻
 
-AI-Accelerated Full-Stack Engineer · India
+AI First Full Stack Engineer · India
 
 Building distributed travel systems at global scale by day, leveraging AI native workflows and codebase-aware agents to ship faster, automate engineering tasks, and accelerate delivery.
 
