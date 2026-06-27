@@ -7,7 +7,7 @@ Building distributed travel systems at global scale by day, leveraging AI native
 
 - 🏗️ Building hotel shopping & booking infrastructure at Amadeus serving millions of travelers worldwide.
 - 🤖 Exploring agent-driven development, AI assisted migrations, and high-velocity engineering workflows.
-- ✍️ Writing about software engineering, AI native development, and modern delivery practices on Mediu
+- ✍️ Writing about software engineering, AI native development, and modern delivery practices on Medium
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
