@@ -20,13 +20,20 @@ Building distributed travel systems at global scale by day, leveraging AI native
 <br/>
 
 ---
-## Open Source
+## Open Source & Contributions
 
-### [Markdown Lens](https://markdownlens.ayushdev.com/)
+### Open Source Projects
 
-A privacy first online Markdown editor and viewer for AI notes, READMEs, docs, Mermaid diagrams, math, and GitHub-style previews.
+- 🌐 [Markdown Lens](https://github.com/ayushhagarwal/markdown-lens) — Privacy-first Markdown editor and viewer
+- 🏨 [StaySpan](https://github.com/ayushhagarwal/stayspan) — Hotel and travel planning project
+- 📊 [ASOPulse](https://github.com/ayushhagarwal/asopulse) — App Store optimization research and analytics
+- 🤝 [Teamloop](https://github.com/ayushhagarwal/teamloop) — Open-source team collaboration platform
 
-[Live App](https://markdownlens.ayushdev.com/) · [Source Code](https://github.com/ayushhagarwal/markdown-lens) · [Contributions Welcome](https://github.com/ayushhagarwal/markdown-lens/issues)
+### Contributions
+
+- 🤝 [Teamloop](https://github.com/ayushhagarwal/teamloop) — Launched the open-source V1 and improved security, runtime, dependencies, and CI ([PR #1](https://github.com/ayushhagarwal/teamloop/pull/1), [PR #13](https://github.com/ayushhagarwal/teamloop/pull/13), [PR #15](https://github.com/ayushhagarwal/teamloop/pull/15))
+- 🛠️ [App Store Connect CLI](https://github.com/rorkai/App-Store-Connect-CLI) — Added analytics report instance filtering and server-side analytics filtering ([PR #1836](https://github.com/rorkai/App-Store-Connect-CLI/pull/1836), [PR #1840](https://github.com/rorkai/App-Store-Connect-CLI/pull/1840))
+- 🤖 [ASC CLI Skills](https://github.com/rorkai/app-store-connect-cli-skills) — Added analytics-backed app dossier and analytics collection skills ([PR #57](https://github.com/rorkai/app-store-connect-cli-skills/pull/57), [PR #58](https://github.com/rorkai/app-store-connect-cli-skills/pull/58))
 
 
 ---
