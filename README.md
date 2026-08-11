@@ -30,7 +30,5 @@ Building distributed travel systems at global scale by day, leveraging AI native
 - 🤝 [Teamloop](https://github.com/ayushhagarwal/teamloop) — Open-source team collaboration platform
 
 ### Contributions
-
-- 🤝 [Teamloop](https://github.com/ayushhagarwal/teamloop) — Launched the open-source V1 and improved security, runtime, dependencies, and CI ([PR #1](https://github.com/ayushhagarwal/teamloop/pull/1), [PR #13](https://github.com/ayushhagarwal/teamloop/pull/13), [PR #15](https://github.com/ayushhagarwal/teamloop/pull/15))
 - 🛠️ [App Store Connect CLI](https://github.com/rorkai/App-Store-Connect-CLI) — Added analytics report instance filtering and server-side analytics filtering ([PR #1836](https://github.com/rorkai/App-Store-Connect-CLI/pull/1836), [PR #1840](https://github.com/rorkai/App-Store-Connect-CLI/pull/1840))
 - 🤖 [ASC CLI Skills](https://github.com/rorkai/app-store-connect-cli-skills) — Added analytics-backed app dossier and analytics collection skills ([PR #57](https://github.com/rorkai/app-store-connect-cli-skills/pull/57), [PR #58](https://github.com/rorkai/app-store-connect-cli-skills/pull/58))
