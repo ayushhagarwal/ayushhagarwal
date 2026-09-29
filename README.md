@@ -24,11 +24,12 @@ Building distributed travel systems at global scale by day, leveraging AI native
 
 ### Open Source Projects
 
-- 🌐 [Markdown Lens](https://github.com/ayushhagarwal/markdown-lens) — Privacy-first Markdown editor and viewer
-- 🏨 [StaySpan](https://github.com/ayushhagarwal/stayspan) — Hotel and travel planning project
-- 📊 [ASOPulse](https://github.com/ayushhagarwal/asopulse) — App Store optimization research and analytics
-- 🤝 [Teamloop](https://github.com/ayushhagarwal/teamloop) — Open-source team collaboration platform
+- 🧹 [BuildSweep](https://github.com/ayushhagarwal/buildsweep-macos) — Native macOS app that shows where Xcode-generated files use disk space and moves the ones you select to Trash
+- 🌐 [Markdown Lens](https://github.com/ayushhagarwal/markdown-lens) — Local-first Markdown editor and document converter for PDF, Word, Office, HTML, EPUB, and images
+- 🏨 [StaySpan](https://github.com/ayushhagarwal/stayspan) — Local-first Chrome extension for hotel bookings, cancellation deadlines, and stay details
+- 📊 [ASOPulse](https://github.com/ayushhagarwal/asopulse) — Open source ASO workspace for keyword discovery, rank tracking, and ranking signals
+- 🤝 [Teamloop](https://github.com/ayushhagarwal/teamloop) — Slack bot for planning team lunches, potlucks, runs, and fitness sessions
 
 ### Contributions
-- 🛠️ [App Store Connect CLI](https://github.com/rorkai/App-Store-Connect-CLI) — Added analytics report instance filtering and server-side analytics filtering ([PR #1836](https://github.com/rorkai/App-Store-Connect-CLI/pull/1836), [PR #1840](https://github.com/rorkai/App-Store-Connect-CLI/pull/1840))
-- 🤖 [ASC CLI Skills](https://github.com/rorkai/app-store-connect-cli-skills) — Added analytics-backed app dossier and analytics collection skills ([PR #57](https://github.com/rorkai/app-store-connect-cli-skills/pull/57), [PR #58](https://github.com/rorkai/app-store-connect-cli-skills/pull/58))
+- 🛠️ [App Store Connect CLI](https://github.com/rorkai/App-Store-Connect-CLI) — Server-side analytics filtering for report instances ([PR #1840](https://github.com/rorkai/App-Store-Connect-CLI/pull/1840))
+- 🤖 [ASC CLI Skills](https://github.com/rorkai/app-store-connect-cli-skills) — Analytics collection skill ([PR #58](https://github.com/rorkai/app-store-connect-cli-skills/pull/58))
